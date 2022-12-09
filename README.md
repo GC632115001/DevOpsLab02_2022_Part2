@@ -75,8 +75,8 @@ Markup : '''javascript
 
 - Bullet list
   - Nested bullet
-    * Sub-nested bullet etc
-    *Bullet list item 2
+    - Sub-nested bullet etc
+      \*Bullet list item 2
 
 1. A numbered list
 1. A nested numbered list
@@ -145,5 +145,5 @@ Emoji:
 
 :mask: :bowtie: ⌘
 
-Name: Saw Eh Kalane Phaung
-ID: 632115501
+Full Name: Saw Eh Kalane Phaung
+Student ID: 632115501
